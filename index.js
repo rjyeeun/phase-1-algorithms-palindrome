@@ -1,10 +1,14 @@
 function isPalindrome(word) {
   // Write your algorithm here
+  //write a function name isPalindrom that has one argument, string. 
+  //Return true if the argument is a palindrom, false if it is not a palindrom 
+  if (word === word) {return true}
+  else {return false}
 }
 
 /* 
-  Add your pseudocode here
-*/
+  if word has the word with palindrome then return true, if else return false 
+
 
 /*
   Add written explanation of your solution here
